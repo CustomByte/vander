@@ -679,9 +679,9 @@ end
                     BorderSizePixel = 0,
                     BackgroundTransparency = 1,
                     Position = UDim2.new(0, 0, 0, -1),
-                    Size = UDim2.new(2, 0, 0, 2),
+                    Size = UDim2.new(1, 0, 0, 1),
                     ZIndex = 2,
-                    TextSize = 12,
+                    TextSize = 20,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
